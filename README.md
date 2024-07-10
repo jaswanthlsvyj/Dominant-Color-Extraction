@@ -9,6 +9,8 @@ This is a Streamlit web application that allows users to upload an image and ext
 - View the original image and the recolored image with dominant colors.
 - Display the top dominant colors in the image.
 
+**Website:** [dominant-color-extraction-app](https://dominant-color-extraction-app.streamlit.app/)
+
 ## How to Use
 
 1. **Navigate to the Upload Image Page**:
